@@ -1,0 +1,285 @@
+.picture1 {
+    height: 100px;
+    width: 100px;margin-bottom: 600px;
+}
+
+.navbar {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    color: black;
+    color: black;
+    font-size: 1px;
+}
+
+.nav-link {
+    font-family: bolder;
+    font-size: 15px;margin-left: 20px;margin-bottom: 600px;
+    color: black;
+}
+
+.nav-link a:hover {
+    color: #00ff15;
+}
+s
+.nav-item {
+    padding-left: 40px;
+    font-size: 15px;
+    padding-left: 15px;
+    color: rgb(1, 155, 39);
+
+}
+
+.serch {
+    /* margin-top: 7px; */
+    color: rgb(105, 18, 18);
+    /* margin-left: 10px; */
+    cursor: pointer;
+}
+
+.serch:hover {
+    color: #00ff15;
+}
+
+.icon:hover {
+    background-color: blue;
+}
+
+.on-icon {
+    color: #00ff15;
+}
+
+.search-outline {
+    color: #00ff15;
+}
+
+#navbarSupportedContent {
+    color: black;
+}
+
+.container-fluid {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: #00ff15;
+}
+
+.h6 {
+    color: black;
+    font-size: bolder;
+    margin-bottom: 610px;
+    margin-left: 5px;
+}
+
+#tittle {
+    background-image: url(./images/Screenshot\ 2023-02-26\ at\ 09-56-40\ PDF_8x11brochure_\ OCT2017_C2P-H.pdf.png);
+    height: 700px;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    width: 100%;
+    background-position: center;
+    
+}
+
+.about {
+    width: 100%;
+
+    background-color: #191919;
+}
+
+.main {
+    /* width: 1000px;
+    max-width: 95%; */
+    color: white;
+    width: 100%;
+    display: flex;
+
+}
+
+.about-text h2 {
+    color: white;
+    font-size: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    align-items: center;
+}
+
+.iframe {
+    padding-top: 40px;
+    justify-content: center;
+    justify-items: center;
+}
+
+.about-text h5 {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.about-text p {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 45px;
+}
+
+.about-text ul {
+    color: white;
+}
+
+.heading {
+    color: white;
+    font-size: large;
+    background-color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    text-transform: capitalize;
+    transition: all 0.3 linear;
+}
+
+/* .container {
+    width: 100%;
+    height: 0px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.box {
+    width: 250px;
+    height: 500px;
+    background-color: grey;
+    font-size: medium;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 80px;
+    margin: 20px;
+    margin-left: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    box-shadow: 0 3px 5px grey(0, 0, 0, .3);
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+.box:hover {
+    transition: .2s;
+    color: #305d00;
+}
+
+.container:hover {
+    background: linear-gradient(45deg,
+            hsla(168, 85%, 52%, 0.5),
+            hsla(263, 88%, 45%, 0.5) 100%);
+}
+
+.counta:hover {
+    overflow: scroll;
+} */
+.row1 {
+    padding: 5%;
+}
+
+.col3 {
+    text-align: center;
+    padding: 5%;
+}
+
+/* .container1{padding-top:600px;} */
+.btn {
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(25, 15, 0);
+}
+
+/* .WORKING {font-size: xx-large;}
+.card img{overflow: hidden;} */
+.banner1 {
+    transition: all 1.3 ease;
+}
+
+.banner1:hover img {
+    transform: scale(1.3);
+}
+
+.card-title {
+    transition: all 1.3 ease;
+}
+
+.card-title:hover {
+    transform: scale(1.3);
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+
+.fa {
+    padding: 8px;
+    margin: 2% 0 2% 0;
+    text-decoration: none;
+}
+
+.fa-instagram {
+    color: orangered;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.fa-facebook {
+    color: blue;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.fa-twitter {
+    color: blue;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.fa-linkdin {
+    color: red;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.fa-youtube {
+    color: orangered;
+    background-color: white;
+    border-radius: 7px; 
+}
+
+.footer1 {
+    padding: 3%;
+    text-align: center;
+}
+
+.fa-envelope {
+    color: white;
+}
+
+@media only screen (min-width:320)  (max-width:570px) {
+    .navbar-toggler-icon{    margin-bottom: 195px;
+    }
+    #tittle{width: 90%;}
+.text-2{font-size: small;}
+.picture1{height: 100px;width: 100px;}
+}
+  
+

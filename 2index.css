@@ -1,0 +1,45 @@
+/* .container{background-image: url(./images/Korangi-Campus1-pcuyzoesuthh0a0erby5rhkjiewh3qmxu28a6odpjo\ \(1\).jpg);
+   
+    position: relative;
+} */
+/* #tittle{color: black;}
+.nav-item{color: black;}
+.nav-link{color: black;}
+.nav-item a:hover {
+    color: #00ff15;
+}
+
+.li{color: black;}
+.li a:hover{  color: #00ff15;} */
+#carousel{height: 300px;width: 100%;}
+.footer{background-color: black;
+    width: 100%;
+    color: white;}
+    .fa {padding: 8px;
+    margin: 2% 0 2% 0;
+    text-decoration: none;}
+    .fa-instagram{color: orangered;
+    background-color: white;
+    border-radius: 7px;
+    }
+    .fa-facebook{color: blue;
+        background-color: white;
+        border-radius: 7px;
+        }
+        .fa-twitter{color: blue;
+            background-color: white;
+            border-radius: 7px;
+            }
+            .fa-linkdin{color: red;
+                background-color: white;
+                border-radius: 7px;
+                }
+                .fa-youtube{color: orangered;
+                    background-color: white;
+                    border-radius: 7px;
+                    }
+                    .footer1{padding: 3%;
+                    text-align: center;
+                }
+                .fa-envelope{color: white;}
+                    
